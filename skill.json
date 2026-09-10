@@ -1,0 +1,17 @@
+{
+  "name": "genpark-chase-lev-work-stealing-deque-skill",
+  "version": "1.0.0",
+  "description": "Chase-Lev lock-free work-stealing double-ended queue (deque) enabling single-owner push/pop and multi-thief lock-free task stealing.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "chase-lev",
+    "work-stealing",
+    "deque",
+    "task-scheduling",
+    "lock-free"
+  ],
+  "dependencies": []
+}
